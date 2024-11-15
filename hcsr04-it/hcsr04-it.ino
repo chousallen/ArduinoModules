@@ -1,3 +1,4 @@
+//Use hcsr04 with external interrupt
 #define TRIG 7
 #define ECHO 2
 
